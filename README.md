@@ -14,4 +14,4 @@ WIP
 WIP
 
 ## CAD
-Available `.STEP` file in `/CAD` directory.
+Available `.STEP` file (in zipped form due to Github limits) in `/CAD` directory.
